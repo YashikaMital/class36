@@ -1,2 +1,2 @@
 # synchronousBallMovement
-Ball moving synchronously
+class 36 code
